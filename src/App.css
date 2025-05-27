@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  color: #e5013d;
+  font-family: New Kansas Swash, sans-serif;
+  font-size: 30px;
+}
+
+.App-header {
+  background-color: #1e445c;
+  padding: 0px;
+}
+
+.features, .contact {
+  padding: 20px;
+}
+
+.feature {
+  margin-bottom: 15px;
+}
+
+footer {
+  background-color: #1e445c;
+  color: white;
+  padding: 45px;
+}
