@@ -44,13 +44,12 @@ function App() {
           <div className="contact-info">
           <p>If you have any questions, feel free to reach out!
             <br />
-            <strong>Tyler:</strong>
-            <br /> 720-254-4907
-            <br />
             <strong>Gracie:</strong>
             <br /> 970-302-7444
             <br />          
-           
+            <strong>Tyler:</strong>
+            <br /> 720-254-4907
+            <br />
           </p>
           </div>
           
